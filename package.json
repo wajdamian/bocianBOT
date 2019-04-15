@@ -1,0 +1,15 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "testowy bocik",
+  "main": "bocik.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garewin",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "tmi.js": "^1.4.2"
+  }
+}
